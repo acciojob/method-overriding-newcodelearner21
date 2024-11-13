@@ -1,7 +1,7 @@
 package com.driver;
 
 public class A {
-    public static void meth() {
+    public  void meth() {
         System.out.println("Invoking method from class A");
     }
 }
